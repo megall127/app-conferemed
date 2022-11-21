@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Conferemed.iml" filepath="$PROJECT_DIR$/.idea/modules/Conferemed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Conferemed.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Conferemed.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-472078988/Conferemed.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-472078988/Conferemed.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1742226412/Conferemed.react-native-community_art.iml" filepath="$PROJECT_DIR$/.idea/modules/1742226412/Conferemed.react-native-community_art.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/555779871/Conferemed.react-native-drop-shadow.iml" filepath="$PROJECT_DIR$/.idea/modules/555779871/Conferemed.react-native-drop-shadow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1928131618/Conferemed.react-native-picker_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1928131618/Conferemed.react-native-picker_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2084193872/Conferemed.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/2084193872/Conferemed.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1004909976/Conferemed.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1004909976/Conferemed.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1835363251/Conferemed.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/1835363251/Conferemed.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-779633606/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-779633606/react-native-gradle-plugin.iml" />
+    </modules>
+  </component>
+</project>
