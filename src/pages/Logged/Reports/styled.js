@@ -42,7 +42,6 @@ export const BoxAllCards = styled.ScrollView`
     width: 100%;
 `
 export const CardBox = styled.View`
-    height: 100px;
     width: 90%;
     background-color: white;
     border-radius: 10px;
@@ -61,7 +60,6 @@ export const TextCardBox = styled.Text`
 export const TextCardBoxProc = styled.Text`
     margin-left: 20px;
     color: #c4c4c4;
-    height: 20px;
     font-weight: 600;
     font-size: 14px;
 

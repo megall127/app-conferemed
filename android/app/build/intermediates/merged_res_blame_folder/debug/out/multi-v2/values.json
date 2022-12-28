@@ -1,23 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\node_modules\\react-native-splash-screen\\android\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
                     "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "47",
-                        "endOffsets": "59"
+                        "startLines": "6,9,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "193,341,481",
+                        "endLines": "8,11,14",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "336,476,663"
                     },
                     "to": {
-                        "startLines": "692",
-                        "startColumns": "4",
-                        "startOffsets": "44141",
-                        "endColumns": "47",
-                        "endOffsets": "44184"
+                        "startLines": "3026,3029,3032",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "203864,204012,204152",
+                        "endLines": "3028,3031,3034",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "204007,204147,204334"
                     }
                 },
                 {
@@ -167,45 +169,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "267"
-                    },
-                    "to": {
-                        "startLines": "822",
-                        "startColumns": "4",
-                        "startOffsets": "59666",
-                        "endLines": "825",
-                        "endColumns": "12",
-                        "endOffsets": "59879"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\node_modules\\react-native-splash-screen\\android\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
-                    "from": {
-                        "startLines": "6,9,12",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "193,341,481",
-                        "endLines": "8,11,14",
-                        "endColumns": "12,12,12",
-                        "endOffsets": "336,476,663"
-                    },
-                    "to": {
-                        "startLines": "3026,3029,3032",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "203864,204012,204152",
-                        "endLines": "3028,3031,3034",
-                        "endColumns": "12,12,12",
-                        "endOffsets": "204007,204147,204334"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\generated\\res\\resValues\\debug\\values\\gradleResValues.xml",
+                    "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\generated\\res\\resValues\\debug\\values\\gradleResValues.xml",
                     "from": {
                         "startLines": "6,8",
                         "startColumns": "4,4",
@@ -219,6 +183,23 @@
                         "startOffsets": "41622,41686",
                         "endColumns": "63,68",
                         "endOffsets": "41681,41750"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,105",
+                        "endColumns": "46,47",
+                        "endOffsets": "99,148"
+                    },
+                    "to": {
+                        "startLines": "182,191",
+                        "startColumns": "4,4",
+                        "startOffsets": "11520,12155",
+                        "endColumns": "46,47",
+                        "endOffsets": "11562,12198"
                     }
                 },
                 {
@@ -274,6 +255,23 @@
                         "endLines": "24,4438,5713,5802",
                         "endColumns": "60,12,24,24",
                         "endOffsets": "1334,297951,368204,373415"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "47",
+                        "endOffsets": "59"
+                    },
+                    "to": {
+                        "startLines": "692",
+                        "startColumns": "4",
+                        "startOffsets": "44141",
+                        "endColumns": "47",
+                        "endOffsets": "44184"
                     }
                 },
                 {
@@ -334,6 +332,25 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "267"
+                    },
+                    "to": {
+                        "startLines": "822",
+                        "startColumns": "4",
+                        "startOffsets": "59666",
+                        "endLines": "825",
+                        "endColumns": "12",
+                        "endOffsets": "59879"
+                    }
+                },
+                {
                     "source": "C:\\Users\\leandro.wilker\\.gradle\\caches\\transforms-3\\fa5673892f2eb4bac1a553c16525d1a8\\transformed\\fragment-1.3.4\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,10",
@@ -386,23 +403,6 @@
                         "endLines": "113,114,537,570,571,572,573,574,586,593,594,595,598,631,632,691,695,696,697,698,699,700,701,702,703,704,705,706,707,708,709,710,711,712,713,714,715,716,717,718,719,720,721,722,723,724,730,735,738,739,740,741,742,743,783,784,785,786,788,789,790,791,792,793,794,795,797,798,799,800,809,813,2670,2673,2685,2689,3022,3025,3270,3317,3326,3333,3362,3365,3368,3468,3474,4448",
                         "endColumns": "62,62,50,47,48,47,48,48,40,42,42,41,42,53,47,72,122,95,88,107,116,119,119,101,102,110,106,102,110,168,167,116,109,114,112,155,107,112,90,110,168,97,126,124,94,106,79,75,72,86,70,70,77,79,85,83,71,81,83,76,86,84,78,74,72,88,76,77,72,77,10,10,12,12,10,10,12,12,25,34,10,10,10,10,10,12,12,10",
                         "endOffsets": "6979,7042,35144,37102,37151,37199,37248,37297,37913,38245,38288,38330,38469,40172,40220,44136,44588,44684,44773,44881,44998,45118,45238,45340,45443,45554,45661,45764,45875,46044,46212,46329,46439,46554,46667,46823,46931,47044,47135,47246,47415,47513,47640,47765,47860,47967,48474,49018,49398,49485,49556,49627,49705,49785,56844,56928,57000,57082,57219,57296,57383,57468,57547,57622,57695,57784,57932,58010,58083,58161,58851,59099,180079,180270,180790,180996,203670,203859,221012,224066,224604,225022,226542,226719,226898,235143,235508,298392"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "57,105",
-                        "endColumns": "46,47",
-                        "endOffsets": "99,148"
-                    },
-                    "to": {
-                        "startLines": "182,191",
-                        "startColumns": "4,4",
-                        "startOffsets": "11520,12155",
-                        "endColumns": "46,47",
-                        "endOffsets": "11562,12198"
                     }
                 }
             ]

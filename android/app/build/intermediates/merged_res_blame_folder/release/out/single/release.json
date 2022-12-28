@@ -1,146 +1,146 @@
 [
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_imgs_register.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_imgs_register.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_elements_src_assets_backiconmask.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icons_x.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icons_x.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icons_sair.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icons_sair.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_imgs_fundohome.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_imgs_fundohome.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_imgs_fundo.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_imgs_fundo.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\layout_launch_screen.xml.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\src\\main\\res\\layout\\launch_screen.xml"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\layout_launch_screen.xml.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\src\\main\\res\\layout\\launch_screen.xml"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icons_setapreta.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icons_setapreta.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icons_seta1.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icons_seta1.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icons_menu.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icons_menu.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_imgs_fundo2.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_imgs_fundo2.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\drawable_launch_screen.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\src\\main\\res\\drawable\\launch_screen.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icons_profilee.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icons_profilee.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icons_setapreta.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icons_setapreta.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icons_logo.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icons_logo.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icons_seta1.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icons_seta1.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icons_x.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icons_x.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icons_iconx.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icons_iconx.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icons_iconok.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icons_iconok.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icons_profile.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icons_profile.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_imgs_fundo2.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_imgs_fundo2.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icons_iconok.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icons_iconok.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_imgs_fundo.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_imgs_fundo.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icons_setaserach.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icons_setaserach.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icons_lupa.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icons_lupa.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icons_profilee.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icons_profilee.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icons_sair.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icons_sair.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icons_lupa.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icons_lupa.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\drawable_launch_screen.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\src\\main\\res\\drawable\\launch_screen.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icons_logo.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icons_logo.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icons_iconx.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icons_iconx.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\drawable_rn_edit_text_material.xml.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\src\\main\\res\\drawable\\rn_edit_text_material.xml"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\drawable_rn_edit_text_material.xml.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\src\\main\\res\\drawable\\rn_edit_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_imgs_fundohome.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_imgs_fundohome.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icons_profile.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icons_profile.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icons_setaserach.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icons_setaserach.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_imgs_register.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_imgs_register.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icons_graficos.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icons_graficos.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icons_graficos.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icons_graficos.png"
     },
     {
-        "merged": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icons_menu.png.flat",
+        "source": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icons_menu.png"
     }
 ]

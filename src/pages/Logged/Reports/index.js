@@ -12,33 +12,45 @@ const Reports = () => {
 
 
   const {userInfos,setOpenMenu } = useContext(GlobalStateContext);
-  const [docSelect, setDocSelect] = useState([]);
+  const [docSelect, setDocSelect] = useState({proc:[]});
   const [filterInput, setFilterInput] = useState('')
 
+  let test = []
 
   const navigation = useNavigation();
 
   const handleInfosDoc = () => {
     api.post('/takedoctors', {id: userInfos.id})
     .then((res) => {
-        setDocSelect(res.data.data.proc)
+      setDocSelect(res.data.data)
     })
     .catch((err) => {
         console.log(err)
     })
   }
 
+  const left45DaysProc = () => {
+    const today = new Date()
+    const DaysInTheFuture = new Date(new Date().setDate(new Date().getDate() + 30));
+    const day = 86400000
+    const daysAgo = new Date(today - (15*day))
+    const leftDaysAgo = docSelect.proc.filter(element => element.date_proc <= DaysInTheFuture.toISOString().slice(0, 10) && element.date_proc >= daysAgo.toISOString().slice(0,10))
+  
+  
+  
+    return leftDaysAgo
+  }
+  
+
   useEffect(() => {
     handleInfosDoc()
   },[])
 
 
-  const filterClients = docSelect.filter((doc) => doc.nome_paciente.toLowerCase().startsWith(filterInput.toLowerCase()))
 
 
-  useEffect(() => {
-    console.log(filterClients)
-  },[filterClients])
+  const filterClients = left45DaysProc()?.filter((doc) => doc.nome_paciente.toLowerCase().startsWith(filterInput.toLowerCase()))
+
 
   const checkBall = (value) => {
 
@@ -124,13 +136,16 @@ const Reports = () => {
                   }}
             >
               {filterClients.map((itens) => {
+                console.log(itens)
+
+  
                 const date = new Date(itens.date_proc)
 
                 const day = date.getDate().toString()
                 const month = date.getMonth() + 1
                 const year = date.getFullYear().toString()
                 return(
-                  <CardBox>
+                  <CardBox key={itens.id}>
                   <TextCardBox>{itens.nome_paciente}</TextCardBox>
                   <TextCardBoxProc>{itens.nome_proc}</TextCardBoxProc>
                   <View style={{flexDirection: 'row', alignItems: 'center'}}>

@@ -61,6 +61,32 @@ const GlobalState = (props) => {
         return leftDaysAgo
       }
 
+      const left15DaysTotal = () => {
+        const today = new Date()
+        const day = 86400000
+        const daysAgo = new Date(today - (15*day))
+        const leftDaysAgo = docSelectAll.proc.filter(element => element.date_proc <= today.toISOString().slice(0, 10) && element.date_proc >= daysAgo.toISOString().slice(0,10))
+    
+    
+        let total = 0;
+        for(let value of leftDaysAgo) {
+            total += parseFloat(value.total);
+        }
+        return total
+    }
+
+    const next30DaysTotal = () => {
+      const today = new Date()
+      const DaysInTheFuture = new Date(new Date().setDate(new Date().getDate() + 30));
+      const leftDaysAgo = docSelectAll.proc.filter(element => element.date_proc >= today.toISOString().slice(0, 10) && element.date_proc <= DaysInTheFuture.toISOString().slice(0,10) )
+    
+      let total = 0;
+      for(let value of leftDaysAgo) {
+          total += parseFloat(value.total);
+      }
+      return total
+    }
+
     const datas = {
         setRegisterInfos,
         registerInfos,
@@ -84,7 +110,9 @@ const GlobalState = (props) => {
         totalAll,
         next30DaysProc,
         left15DaysProc,
-        left45DaysProc
+        left45DaysProc,
+        left15DaysTotal,
+        next30DaysTotal
     }
 
 

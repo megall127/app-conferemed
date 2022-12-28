@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { Modal, Text, View } from "react-native";
-import MaskInput, { Masks } from "react-native-mask-input";
+import { Modal, ScrollView, Text, View } from "react-native";
 import {  ButtonExitsModal, ButtonExitsText, ModalGrafics } from "../styled";
 import PieChart from 'react-native-pie-chart';
 import DropShadow from "react-native-drop-shadow";
@@ -8,33 +7,55 @@ import DropShadow from "react-native-drop-shadow";
 
 
 const ModalConvenio = ({convenioAll, openModal2,setOpenModal2, left45DaysProc}) => {
-    const [value, setValue] = useState('')
-    const [arrayTotal, setArrayTotal] = useState([])
     const [serie, setSerie] = useState([])
     const [color, setColor] = useState([])
-    const [stat, setStat] = useState(null)
+    const [arrayAll, setArrayAll] = useState([])
+
     
     const widthAndHeight = 150
     const series = serie
     const sliceColor = color
 
-    const allConvenios = () => {
-        let array = []
-        let colorArray = []
-        left45DaysProc()?.map((itens) => {
-            array.push(itens.total)
-            colorArray.push(itens.color)
-        })
-        setSerie(array)
-        setColor(colorArray)
+    function generateColor() {
+      const letters = '0123456789ABCDEF';
+      let color = '#';
+      
+      for (let i = 0; i < 6; i++) {
+        color += letters[Math.floor(Math.random() * 16)];
+      }
+      
+      return color;
+      
     }
 
-
+    const allConvenios = () => {
+        let array = []
+        let allItens = []
+        left45DaysProc()?.map((itens) => {
+            array.push(parseFloat(itens.total))
+            allItens.push({...itens, color: generateColor() })
+        })
+        setSerie(array)
+        setArrayAll(allItens)
+    }
 
     useEffect(() => {
         allConvenios()
     },[convenioAll])
 
+    useEffect(() => {
+      let colorArray = []
+      arrayAll.map((itens) => {
+        colorArray.push(itens.color)
+      })
+      setColor(colorArray)
+    },[arrayAll])
+
+
+
+    useEffect(() => {
+      console.log(series)
+    },[series])
 
 
     const totalCount = () => {
@@ -47,7 +68,7 @@ const ModalConvenio = ({convenioAll, openModal2,setOpenModal2, left45DaysProc}) 
     }
 
     return(
-        <>
+
         <Modal
         animationType="fade"
         transparent={true}
@@ -82,20 +103,22 @@ const ModalConvenio = ({convenioAll, openModal2,setOpenModal2, left45DaysProc}) 
           />
           <View style={{ height: 2, width: "100%", backgroundColor: "#c4c4c4", marginTop: 30}}></View>
           <Text style={{color: "black", marginLeft: 20, marginTop: 30}}>Convênios</Text>
-          {left45DaysProc() ? <Text style={{color: "black", marginLeft: 20, marginTop: 30}}>Nenhum dado cadastrado</Text> : 
-                      left45DaysProc()?.map((itens) => {
+          <ScrollView>
+          {arrayAll === [] ? <Text style={{color: "black", marginLeft: 20, marginTop: 30}}>Nenhum dado cadastrado</Text> : 
+                      arrayAll?.map((itens) => {
                         return(
                           <View style={{flexDirection: 'row', alignItems: 'center'}}>
                           <Text style={{marginLeft:10, color: itens.color, width: "50%", height: 30}}>{itens.convenio}</Text>
-                          <Text style={{marginLeft:10, color: "black", width: "50%", height: 30}}>{((itens.total / totalCount()).toFixed(2) * 100).toFixed(2)}%</Text>
+                          <Text style={{marginLeft:10, color: "black", width: "50%", height: 30}}>{((itens.total / totalCount()).toFixed(2) * 100)}%</Text>
                         </View>
                         )
                       })
           }
+          </ScrollView>
           </ModalGrafics>
           </DropShadow>
         </Modal>
-        </>
+
     )
 }
 

@@ -112,7 +112,6 @@ const HomePage = () => {
       })
       array.push({name: itens, total: total, color: generateColor()})
     })
-    console.log("aqui", array)
     setClinicsAll(array)
     setGlobalAllClinic(array)
   }
@@ -411,7 +410,7 @@ useEffect(() => {
         </Modal>
         <ModalComp left45DaysProc={left45DaysProc} clinicAll={clinicAll} openModal1={openModal1} setOpenModal1={setOpenModal1} />
         <ModalConvenio left45DaysProc={left45DaysProc}  convenioAll={convenioAll} openModal2={openModal2} setOpenModal2={setOpenModal2}/>
-        <ModalTicket left45DaysProc={left45DaysProc} openModal3={openModal3} setOpenModal3={setOpenModal3} next30DaysProc={next30DaysProc} left15DaysProc={left15DaysProc} total={total} />
+        <ModalTicket left45DaysProc={left45DaysProc} openModal3={openModal3} setOpenModal3={setOpenModal3} next30DaysProc={next30DaysProc} left15DaysProc={left15DaysProc} />
         </SafeAreaView>
     )
 }

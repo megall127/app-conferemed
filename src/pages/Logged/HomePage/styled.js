@@ -223,7 +223,7 @@ export const ButtonExits = styled.TouchableOpacity`
 export const ButtonExitsModal = styled.TouchableOpacity`
     justify-content: center;
     align-items: center;
-    height: 30px;
+    height: 10%;
     width: 20%;
     background-color: #085769;
     border-radius: 10px;

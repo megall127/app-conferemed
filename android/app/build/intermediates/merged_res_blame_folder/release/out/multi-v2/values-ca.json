@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\leandro.wilker\\Desktop\\Projetos TI\\Front Mobile\\Conferemed APP\\android\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ca\\values-ca.xml",
+            "outputFile": "C:\\Users\\leandro.wilker\\Desktop\\app-conferemed\\android\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ca\\values-ca.xml",
             "map": [
                 {
                     "source": "C:\\Users\\leandro.wilker\\.gradle\\caches\\transforms-3\\b0da79f9bb33341aa8a434af7c6ebd5e\\transformed\\appcompat-1.1.0\\res\\values-ca\\values-ca.xml",

@@ -1,18 +1,26 @@
-import React, { useEffect, useState } from "react";
+import React, { useContext, useEffect, useState } from "react";
 import { Modal, Text, View } from "react-native";
 import MaskInput, { Masks } from "react-native-mask-input";
 import {  ButtonExitsModal, ButtonExitsText, ModalGrafics } from "../styled";
 import PieChart from 'react-native-pie-chart';
 import DropShadow from "react-native-drop-shadow";
 import CurrencyInput from "react-native-currency-input";
+import GlobalStateContext from "../../../../GlobalState/GlobalStateContext";
 
 
 
-const ModalTicket = ({openModal3,setOpenModal3,next30DaysProc, left15DaysProc, total}) => {
+const ModalTicket = ({openModal3,setOpenModal3,next30DaysProc, left15DaysProc }) => {
     const [value, setValue] = useState('')
     const [arrayTotal, setArrayTotal] = useState([])
 
+    const {left15DaysTotal,
+      next30DaysTotal} = useContext(GlobalStateContext);
   
+
+      let total = left15DaysTotal() + next30DaysTotal()
+
+
+      
     return(
         <>
         <Modal
@@ -40,7 +48,7 @@ const ModalTicket = ({openModal3,setOpenModal3,next30DaysProc, left15DaysProc, t
             <ButtonExitsModal onPress={()=> setOpenModal3(false)}>
                 <ButtonExitsText>X</ButtonExitsText>
             </ButtonExitsModal>
-          <View style={{ height: 2, width: "100%", backgroundColor: "#c4c4c4", marginTop: 30}}></View>
+          <View style={{ height: 2, width: "100%", backgroundColor: "#c4c4c4", marginTop: 10}}></View>
           <Text style={{color: "black", marginLeft: 20, marginTop: 30}}>Ticket Médio</Text>
           <CurrencyInput
                       value={(parseFloat(total) / (next30DaysProc() + left15DaysProc())).toFixed(2)}
@@ -60,7 +68,7 @@ const ModalTicket = ({openModal3,setOpenModal3,next30DaysProc, left15DaysProc, t
                       precision={2}
                     />
           <Text style={{color: "black", marginLeft: 20, marginTop: 10}}>Total de atendimentos mensal</Text>
-          <Text style={{color: "black", marginLeft: 20, marginTop: 10}}>{next30DaysProc() + left15DaysProc()}</Text>
+          <Text style={{color: "black", marginLeft: 20, marginTop: 10, marginBottom: 20}}>{next30DaysProc() + left15DaysProc()}</Text>
           </ModalGrafics>
           </DropShadow>
         </Modal>
